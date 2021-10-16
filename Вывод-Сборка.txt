@@ -1,0 +1,13 @@
+﻿Сборка начата…
+1>------ Сборка начата: проект: LabWork7, Конфигурация: Debug x64 ------
+1>Source.c
+1>E:\User\Nikita\Документы\GitHub\LabWork7\LabWork7\Source.c(15,51): warning C4047: функция: "const char *" отличается по уровням косвенного обращения от "char"
+1>E:\User\Nikita\Документы\GitHub\LabWork7\LabWork7\Source.c(15,44): warning C4024: fopen_s: различные типы для формального и фактического параметров 2
+1>E:\User\Nikita\Документы\GitHub\LabWork7\LabWork7\Source.c(15,58): warning C4047: функция: "const char *" отличается по уровням косвенного обращения от "char"
+1>E:\User\Nikita\Документы\GitHub\LabWork7\LabWork7\Source.c(15,53): warning C4024: fopen_s: различные типы для формального и фактического параметров 3
+1>E:\User\Nikita\Документы\GitHub\LabWork7\LabWork7\Source.c(15,1): warning C4047: инициализация: "FILE *" отличается по уровням косвенного обращения от "errno_t"
+1>E:\User\Nikita\Документы\GitHub\LabWork7\LabWork7\Source.c(32,6): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+1>E:\User\Nikita\Документы\GitHub\LabWork7\LabWork7\Source.c(28,7): warning C4101: Arr: неиспользованная локальная переменная
+1>LabWork7.vcxproj -> E:\User\Nikita\Документы\GitHub\LabWork7\x64\Debug\LabWork7.exe
+1>Сборка проекта "LabWork7.vcxproj" завершена.
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
