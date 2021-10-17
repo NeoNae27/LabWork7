@@ -73,8 +73,6 @@ int main(void) {
 	gets(FileName);
 	system("cls");
 
-	
-
 	printf("\n The contents of the File <<%s>>:\n", FileName);
 	Number = ContentsFile(FileName, "r");
 
